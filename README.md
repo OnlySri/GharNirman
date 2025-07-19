@@ -1,2 +1,2 @@
 # GharNirman
-This is my capstne project ofr aibased tender Bidding and cost estimation
+This is my capstne project of AI based tender Bidding and cost estimation.
